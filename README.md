@@ -2,6 +2,9 @@
 There are a couple of my projects I'm working on today:
 
 ![](https://avatars.githubusercontent.com/u/1481354?s=12) [Muxify](https://github.com/liodnik/muxify) -- endpoint to convert HLS to MP4 video.
+
+![](https://avatars.githubusercontent.com/u/1481354?s=12) [Exercism - Elixir](https://github.com/liodnik/exercism-tasks-elixir) -- I love to do awesome super interesting tasks in exercism.org and I store solutions here.
+
 <!--
 **liodnik/liodnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
