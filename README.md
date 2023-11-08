@@ -3,6 +3,8 @@ There are a couple of my projects I'm working on today:
 
 ![](https://avatars.githubusercontent.com/u/1481354?s=12) [Muxify](https://github.com/liodnik/muxify) -- endpoint to convert HLS to MP4 video.
 
+![](https://avatars.githubusercontent.com/u/1481354?s=12) [Tajemny Santa (Secret Santa)](https://github.com/liodnik/tajemny_santa) -- Every Christmas my friends and I meet and exchange gifts. A service should help us with this. In theory it should randomly distributes who gives what to whom and sends out mailings [in progress][in very beginning]
+
 ![](https://avatars.githubusercontent.com/u/1481354?s=12) [Exercism - Elixir](https://github.com/liodnik/exercism-tasks-elixir) -- I love to do awesome super interesting tasks in exercism.org and I store solutions here.
 
 <!--
