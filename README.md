@@ -14,7 +14,7 @@ There are a couple of my projects I'm working on today:
 <img src="./images/elixir-original-wordmark.svg" height="80px">
 <img src="./images/go-original.svg" height="80px">
 <img src="./images/php-plain.svg" height="80px">
-<img src="./images/dotnetcore-original.svg" height="80px">
+<img src="./images/csharp-original.svg" height="80px">
 <img src="./images/python-original.svg" height="80px">
 <img src="./images/javascript-original.svg" height="80px">
 <!--
