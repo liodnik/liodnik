@@ -10,8 +10,8 @@ There are a couple of my projects I'm working on today:
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" style="height: 15px; object-fit: cover; object-position: 0 3px;"> [**mysql_merge**](https://github.com/logicnow/mysql_merge) -- This small script allows you to merge two or more mysql databases with similar schema but different dataset. As a result you'll have your data copied into specified database.
 
 ### I love to code with:
-![]("./images/elixir-original-wordmark.svg")
-<img src="./images/elixir-original-wordmark.svg" height="80px">
+![]("./images/elixir-logo-dark.png")
+<img src="./images/elixir-logo-dark.png" height="80px">
 <img src="./images/go-original.svg" height="80px">
 <img src="./images/php-plain.svg" height="80px">
 <img src="./images/javascript-original.svg" height="80px">
