@@ -1,10 +1,6 @@
 ### Hi there 👋
 There are a couple of my projects I'm working on today:
 
-<img src="./images/elixir-original.svg" height="20px"> [**Muxify**](https://github.com/liodnik/muxify) -- endpoint to convert HLS to MP4 video.
-
-<img src="./images/elixir-original.svg" height="20px"> [**Tajemny Santa (Secret Santa)**](https://github.com/liodnik/tajemny_santa) -- Every Christmas my friends and I meet and exchange gifts. A service should help us with this. In theory it should randomly distributes who gives what to whom and sends out mailings [in progress][in very beginning]
-
 <img src="./images/elixir-original.svg" height="20px"> [**Exercism - Elixir**](https://github.com/liodnik/exercism-tasks-elixir) -- I love to do awesome super interesting tasks in *exercism.org* and I store solutions here.
 
 <img src="./images/python-original.svg" height="20px"> [**mysql_merge**](https://github.com/logicnow/mysql_merge) -- This small script allows you to merge two or more mysql databases with similar schema but different dataset. As a result you'll have your data copied into specified database.
