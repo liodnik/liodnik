@@ -7,10 +7,11 @@ There are a couple of my projects I'm working on today:
 
 ### I love to code with:
 ![]("./images/elixir-logo-dark.png")
-<img src="./images/elixir-logo-dark.png" height="60px">
-<img src="./images/go-original.svg" height="60px">
-<img src="./images/php-plain.svg" height="60px">
-<img src="./images/javascript-original.svg" height="60px">
+<img src="./images/elixir-logo-dark.png" height="50px">
+<img src="./images/rust-plain.svg" height="50px">
+<img src="./images/go-original.svg" height="50px">
+<img src="./images/php-plain.svg" height="50px">
+<img src="./images/javascript-original.svg" height="50px">
 <!--
 <img src="./images/csharp-original.svg" height="80px">
 <img src="./images/python-original.svg" height="80px">
@@ -21,7 +22,7 @@ There are a couple of my projects I'm working on today:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Elixir and Rust.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
