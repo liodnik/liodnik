@@ -7,7 +7,7 @@ There are a couple of my projects I'm working on today:
 
 ### I love to code with:
 ![]("./images/elixir-logo-dark.png")
-<img src="./erlang-plain-wordmark.svg" height="50px">
+<img src="./images/erlang-plain-wordmark.svg" height="50px">
 <img src="./images/elixir-logo-dark.png" height="50px">
 <img src="./images/lua-plain.svg" height="50px">
 <img src="./images/go-original.svg" height="50px">
