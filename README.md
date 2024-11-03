@@ -9,9 +9,10 @@ There are a couple of my projects I'm working on today:
 ![]("./images/elixir-logo-dark.png")
 <img src="./images/erlang-plain-wordmark.svg" height="50px">
 <img src="./images/elixir-logo-dark.png" height="50px">
+<img src="./images/javascript-original.svg" height="50px">
+<img src="./images/php-plain.svg" height="50px">
 <img src="./images/lua-plain.svg" height="50px">
 <img src="./images/go-original.svg" height="50px">
-<img src="./images/javascript-original.svg" height="50px">
 <!--
 <img src="./images/csharp-original.svg" height="80px">
 <img src="./images/rust-plain.svg" height="50px">
